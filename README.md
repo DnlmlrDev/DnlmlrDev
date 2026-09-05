@@ -17,7 +17,7 @@ I help teams turn data-platform requirements into maintainable engineering solut
 
 **Data Engineering:** Python · PySpark · SQL · Delta Lake · Databricks  
 **Cloud & Infrastructure:** Microsoft Azure · Terraform · Bicep  
-**Delivery & Operations:** Databricks Asset Bundles · GitHub Actions · CI/CD · YAML · Azure DevOps
+**Delivery & Operations:** Databricks Asset Bundles · GitHub Actions · CI/CD · YAML · Azure DevOps  
 **Focus areas:** Lakehouse Architecture · Metadata-Driven Engineering · Data Quality · Observability · Platform Reliability
 
 ## What I care about
